@@ -1,0 +1,34 @@
+export default [
+    {
+        id : 5,
+        title : "닥터리브 비타민D",
+        content : "비타민D 건강기능식품",
+        price : 13000
+    },
+    {
+        id : 6,
+        title : "루테인 프리미엄",
+        content : "마리골드 꽃 추출물,아연,베타카로틴",
+        price : 30000
+    },
+    {
+        id : 7,
+        title : "Magnum",
+        content : "웨이 프로틴 브랜드",
+        price : 40000
+    },
+  
+    {
+        id : 8,
+        title : "Gyno-fresh",
+        content : "건강해질 여성유산균",
+        price : 14000
+    },
+  
+    {
+        id : 9,
+        title : "관절쎈",
+        content : "관절,연골 건강",
+        price : 22000
+    }
+]
